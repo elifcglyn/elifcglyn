@@ -30,7 +30,7 @@
 * **i-LAB Laboratory Management Portal** (Next.js, Node.js, MongoDB, Tailwind CSS)
   * i-LAB ekibinin ekipman takip iş akışlarını kolaylaştıran, rol tabanlı erişim kontrolü (RBAC) ve RESTful API'ler içeren tam yığın yönetim portalı.
 * **Postify - Modern Web 2.0 CMS** (PHP, Bootstrap, MySQL)
-  * Asenkro
+  * Klasik ve hantal blog yapılarına kıyasla asenkron veri akışına sahip, güvenli ve UX odaklı içerik yönetim sistemi prototipi. Yazılım mühendisliği prensipleri, Clean Code standartları ve RESTful API benzeri bir mimariyle geliştirilmiştir.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/elif-caglayan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@elifalanur7) 
