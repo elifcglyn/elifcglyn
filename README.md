@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Elif Çağlayan!</h1>
-<h3 align="center">Software Engineering Student & Full-Stack Developer</h3>
+<h1 align="center">Herkese Merhaba 👋, Ben, Elif Çağlayan!</h1>
+<h3 align="center">Yazılım mühendisliği öğrencisi & Full-Stack Geliştirici</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elif-caglayan/">
@@ -20,7 +20,7 @@
 
 ### 🚀 Hakkımda
 * 💻 **İstinye Üniversitesi** Yazılım Mühendisliği 3. sınıf öğrencisiyim.
-* 🛠️ Modern web ekosistemi (**Next.js, Node.js, TypeScript**) ve mobil geliştirme odaklı, gerçek dünya problemlerini çözen projeler geliştiriyorum.
+* 🛠️ Modern web ekosistemi ve mobil geliştirme odaklı, gerçek dünya problemlerini çözen projeler geliştiriyorum.
 * 🔬 **i-LAB / IEEE Student Club** bünyesinde tam yığın geliştirici ve proje yöneticisi olarak görev alıyor, laboratuvar yönetim portalları ve IoT odaklı web platformları tasarlıyorum.
 
 ---
@@ -28,28 +28,24 @@
 ### 💻 Öne Çıkan Projelerim
 
 * **i-LAB Laboratory Management Portal** (Next.js, Node.js, MongoDB, Tailwind CSS)
-  * Takip iş akışlarını kolaylaştıran, rol tabanlı erişim kontrolü (RBAC) ve RESTful API'ler içeren tam yığın yönetim portalı.
-* **3D Drone Position Estimation System** (Python, OpenCV, NumPy)
-  * Görüntü işleme verileriyle çalışan, Kalman Filtresi tabanlı yörünge kararlılığı sağlayan konum tahmin boru hattı.
+  * i-LAB ekibinin ekipman takip iş akışlarını kolaylaştıran, rol tabanlı erişim kontrolü (RBAC) ve RESTful API'ler içeren tam yığın yönetim portalı.
+* **Postify - Modern Web 2.0 CMS** (PHP, Bootstrap, MySQL)
+  * Asenkron veri akışına sahip, güvenli, kullanıcı deneyimi (UX) odaklı ve Clean Code standartları gözetilerek geliştirilmiş içerik yönetim sistemi.
 
 ---
 
 ### 🛠️ Teknik Yetkinlikler
-* **Diller:** Python, C++, Java, JavaScript, TypeScript
-* **Web & Mobil:** React, Next.js, Flutter, Node.js, RESTful APIs
-* **Veritabanı & Araçlar:** MongoDB, MySQL, Git, GitHub
+* **Diller & Teknolojiler:** PHP, JavaScript, TypeScript, Python, C++, Java
+* **Web & Mobil:** React, Next.js, Bootstrap, Flutter, Node.js, RESTful APIs
+* **Veritabanı & Araçlar:** MySQL, MongoDB, Git, GitHub
 * **Makine Öğrenmesi & Görüntü İşleme:** OpenCV, NumPy, Supervised Learning, Kalman Filter
 
 ---
 
-### 📊 GitHub İstatistikleri & Aktivite
+### 📊 GitHub Aktivite ve İstatistiklerim
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elifcgyn&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifcgyn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -57,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elifcgyn&theme=radical" alt="Profile Summary Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifcgyn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
