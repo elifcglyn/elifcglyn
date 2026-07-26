@@ -12,9 +12,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://medium.com/@elifalanur7">
-    <img src="https://medium.com/@elifalanur7">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-    </a>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+  </a>
 </p>
 
 ---
@@ -43,12 +42,24 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub İstatistikleri & Aktivite
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elifcgyn&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifcgyn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elifcgyn&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elifcgyn&theme=radical" alt="Profile Summary Card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elifcgyn&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </p>
