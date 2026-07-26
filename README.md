@@ -8,22 +8,38 @@
   <a href="https://github.com/elifcgyn">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
+  <a href="mailto:elifalanur7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://medium.com/@elifalanur7">
+    <img src="https://medium.com/@elifalanur7">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
 </p>
 
 ---
 
 ### 🚀 Hakkımda
 * 💻 **İstinye Üniversitesi** Yazılım Mühendisliği 3. sınıf öğrencisiyim.
-* 🔬 **i-LAB** bünyesinde laboratuvar yönetim sistemleri ve araştırma projeleri geliştiriyorum (şu an test aşamasında).
-* 💡 Full-stack web ve mobil uygulama geliştirme (Next.js, Node.js, React Native, Flutter) üzerine odaklanıyorum.
-* 🌱 Sağlık teknolojileri, yapay zeka entegrasyonları ve gömülü sistemler alanındaki projelere ilgi duyuyorum.
+* 🛠️ Modern web ekosistemi (**Next.js, Node.js, TypeScript**) ve mobil geliştirme odaklı, gerçek dünya problemlerini çözen projeler geliştiriyorum.
+* 🔬 **i-LAB / IEEE Student Club** bünyesinde tam yığın geliştirici ve proje yöneticisi olarak görev alıyor, laboratuvar yönetim portalları ve IoT odaklı web platformları tasarlıyorum.
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,flutter,dart,git,github,vscode" alt="Tech Stack" />
-</p>
+### 💻 Öne Çıkan Projelerim
+
+* **i-LAB Laboratory Management Portal** (Next.js, Node.js, MongoDB, Tailwind CSS)
+  * Takip iş akışlarını kolaylaştıran, rol tabanlı erişim kontrolü (RBAC) ve RESTful API'ler içeren tam yığın yönetim portalı.
+* **3D Drone Position Estimation System** (Python, OpenCV, NumPy)
+  * Görüntü işleme verileriyle çalışan, Kalman Filtresi tabanlı yörünge kararlılığı sağlayan konum tahmin boru hattı.
+
+---
+
+### 🛠️ Teknik Yetkinlikler
+* **Diller:** Python, C++, Java, JavaScript, TypeScript
+* **Web & Mobil:** React, Next.js, Flutter, Node.js, RESTful APIs
+* **Veritabanı & Araçlar:** MongoDB, MySQL, Git, GitHub
+* **Makine Öğrenmesi & Görüntü İşleme:** OpenCV, NumPy, Supervised Learning, Kalman Filter
 
 ---
 
